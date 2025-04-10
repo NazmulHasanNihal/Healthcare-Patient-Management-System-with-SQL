@@ -1,0 +1,51 @@
+Doctor ID,First Name,Last Name,Specialization,Phone,Email,Availability,Location
+1,Steven,Wright,Orthopedist,(320)704-8367,lkeller@example.org,10 AM - 6 PM,Los Angeles
+2,Paul,Brown,Pediatrician,715-248-5675x6776,hmartinez@example.com,9 AM - 5 PM,San Francisco
+3,Marcus,Hartman,Orthopedist,(952)810-0234,jessicarodriguez@example.org,9 AM - 5 PM,Dallas
+4,Beth,Perez,Pediatrician,(392)484-1574x571,marissamiranda@example.net,8 AM - 4 PM,New York
+5,Tamara,Marshall,Oncologist,+1-993-632-6968,maria56@example.org,9 AM - 5 PM,Chicago
+6,Thomas,Garcia,Neurologist,(618)934-6033x544,rebeccaturner@example.com,9 AM - 5 PM,New York
+7,Bryce,Moore,Pediatrician,001-297-915-7550x72002,webbgary@example.org,9 AM - 5 PM,Houston
+8,Jill,Edwards,Pediatrician,+1-534-365-0102x970,romanjason@example.net,9 AM - 5 PM,New York
+9,Jacqueline,Whitney,Orthopedist,001-688-493-2766x877,whitakerjennifer@example.org,9 AM - 5 PM,Dallas
+10,Marie,Garcia,Orthopedist,(776)304-4560,brian81@example.com,9 AM - 5 PM,Miami
+11,Jose,Mata,General Practitioner,(245)468-3750,pamela74@example.net,10 AM - 6 PM,Dallas
+12,Marie,Bowman,Neurologist,289-936-0506,rebecca81@example.net,10 AM - 6 PM,Chicago
+13,Savannah,Hardin,Cardiologist,594-793-7008x35969,williamwilson@example.com,9 AM - 5 PM,Los Angeles
+14,Tamara,Drake,Orthopedist,001-782-767-1644x7293,samuelroman@example.net,10 AM - 6 PM,Houston
+15,Joseph,Sanders,Pediatrician,964-846-7837x070,jaredjenkins@example.org,8 AM - 4 PM,New York
+16,Mary,Valencia,General Practitioner,253-476-3060x1789,nelsonlauren@example.net,8 AM - 4 PM,Los Angeles
+17,Michelle,Williams,General Practitioner,(661)261-8868,alvaradodanielle@example.com,8 AM - 4 PM,Miami
+18,Debra,Hernandez,Cardiologist,979.487.4879,aguilarangela@example.net,9 AM - 5 PM,Los Angeles
+19,Brenda,Edwards,Cardiologist,624-505-1846,brianhawkins@example.com,10 AM - 6 PM,San Francisco
+20,Noah,Gonzalez,Neurologist,001-591-483-9992,smithbradley@example.org,8 AM - 4 PM,New York
+21,Olivia,Morales,Orthopedist,695-915-9460x8844,robert56@example.com,8 AM - 4 PM,San Francisco
+22,Ian,Garza,Cardiologist,(202)856-9423x79584,rmarshall@example.org,10 AM - 6 PM,Los Angeles
+23,Tricia,Long,Orthopedist,(590)749-3025,robertcopeland@example.org,9 AM - 5 PM,Chicago
+24,Tara,Johnson,Orthopedist,001-506-751-1125x55054,acarpenter@example.org,8 AM - 4 PM,Chicago
+25,Brittany,Green,General Practitioner,2134659506,steven91@example.net,8 AM - 4 PM,Dallas
+26,Timothy,Johnson,Oncologist,(667)994-3708,newmansusan@example.org,8 AM - 4 PM,San Francisco
+27,Debbie,Morrison,Oncologist,251-570-9451,wwilson@example.org,9 AM - 5 PM,New York
+28,Dave,Rodriguez,Cardiologist,867-763-2863,gregorychristine@example.org,9 AM - 5 PM,Miami
+29,Russell,Fischer,Neurologist,610-388-5107x37530,kevinhoffman@example.com,10 AM - 6 PM,Dallas
+30,Patrick,Decker,Orthopedist,+1-572-584-9230x6856,steve41@example.net,10 AM - 6 PM,Dallas
+31,Christina,Henry,Oncologist,678-555-3789x4001,bsingh@example.org,8 AM - 4 PM,Los Angeles
+32,Christian,Flores,Cardiologist,+1-609-559-9647x86085,ryoung@example.com,9 AM - 5 PM,Chicago
+33,David,Shepherd,Pediatrician,586.347.0165x160,michaelgibbs@example.com,8 AM - 4 PM,Miami
+34,Sara,Gibbs,Oncologist,(444)776-7592x645,victor35@example.net,9 AM - 5 PM,Chicago
+35,Miguel,Moon,Oncologist,(803)590-7299,paulwhite@example.com,8 AM - 4 PM,Houston
+36,Andrea,Woods,Oncologist,368.275.5793x776,kristasmith@example.net,10 AM - 6 PM,New York
+37,Kenneth,Lane,Pediatrician,+1-403-391-3786x553,jeff76@example.org,8 AM - 4 PM,Chicago
+38,Brooke,James,Oncologist,493-817-8508x729,jimmypope@example.net,10 AM - 6 PM,San Francisco
+39,Timothy,Mathews,Oncologist,001-471-287-8592,michael17@example.org,8 AM - 4 PM,Houston
+40,Danny,Quinn,Oncologist,697-480-4488,weissjason@example.com,8 AM - 4 PM,Los Angeles
+41,Rebecca,Barr,Oncologist,815.297.2766x1310,christinabrown@example.org,8 AM - 4 PM,Houston
+42,Monica,Fernandez,Orthopedist,001-876-205-2689,hrodgers@example.org,8 AM - 4 PM,Miami
+43,Bradley,Crane,Cardiologist,001-684-655-5082,rebecca61@example.org,9 AM - 5 PM,New York
+44,Melissa,Moore,Orthopedist,001-976-603-9034x6920,mark92@example.net,9 AM - 5 PM,Miami
+45,Frederick,Rivera,General Practitioner,358.215.0633,jennifer73@example.com,10 AM - 6 PM,Los Angeles
+46,Willie,Austin,General Practitioner,649-298-5013x636,orodriguez@example.net,10 AM - 6 PM,Houston
+47,Amy,Black,Cardiologist,528.454.4312,julieatkins@example.com,9 AM - 5 PM,San Francisco
+48,Janet,Villarreal,Neurologist,617-520-4251,gtanner@example.com,9 AM - 5 PM,Houston
+49,Lisa,Weber,Oncologist,664.707.6580,heather62@example.org,8 AM - 4 PM,San Francisco
+50,Stephanie,Brown,Cardiologist,727.238.9273x3679,yjackson@example.net,9 AM - 5 PM,New York
